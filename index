@@ -1,0 +1,6 @@
+class newbranch
+{
+    void main()
+    {   s.o.p("New Branch is launched")
+    }
+}
