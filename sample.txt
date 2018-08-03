@@ -1,5 +1,10 @@
 void main()
 {
+   Enter three numbers(1,2,3)
+    ........................
+}
+void main()
+{
    Enter two numbers(1,2)
    Sum is 3
 }
