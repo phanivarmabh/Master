@@ -1,3 +1,8 @@
+void maint()
+{
+  Multiplication of two numbers()
+   c=a*b;
+}
 void mian()
 {
   Addition of two number()
